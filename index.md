@@ -127,7 +127,7 @@ Fountain (which got its name from _Fountain Avenue_, the famous Hollywood shortc
 
 ## Exercise 3
 
-[Nice music in **La Plaza Mayor de Madrid**](https://www.youtube.com/watch?v=78vdEJgFsn8)
+[![Nice music in **La Plaza Mayor de Madrid**](https://i.ytimg.com/vi/78vdEJgFsn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy6P5fFZ3KlvQBVPYgo-1mMz725Q)](https://www.youtube.com/watch?v=78vdEJgFsn8)
 
 [Maine coon a nice cat]![cat photo](https://upload.wikimedia.org/wikipedia/commons/5/5a/Maine_Coon_cat_by_Tomitheos.JPG)
 
